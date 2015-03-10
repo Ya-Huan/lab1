@@ -1,51 +1,16 @@
-Script started on 2015年03月10日 (週二) 17時41分47秒
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ whoami; pwd
-F74034075
-/home/F74034075
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ git config -l
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ clear
-[H[2J]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ mkdir lab1
+Script started on 2015年03月10日 (週二) 19時48分20秒
 ]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ ls
 [0m[01;34mlab1[0m  lab1.script
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ git cofig --gloa[Kbal[1@n[C[C[C[C[C[C[C[C[C[C[C[C user.name ""Y"a"-"H"u"a"n"[C
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ git config --global user.name "Ya-Huan"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K.email ""f"7"4"0"3"4"0"7"5"@"a"i"l"mail"[C[C[C."n"c"k"u"."e"d"u"."t"w" [A]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ if[K[Kgit config -l
-user.name=Ya-Huan
-user.email=f74034075@mail.ncku.edu.tw
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ script lab1.script
-Script started, file is lab1.script
 ]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ whoami; pwd
 F74034075
 /home/F74034075
 ]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ git config -l
 user.name=Ya-Huan
 user.email=f74034075@mail.ncku.edu.tw
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$  it [K[K[K[Kgit clone http://github.com/<>[C[K[KYah[K-Han[Ku[K[Kuan/lab1.git
-Cloning into 'lab1'...
-warning: You appear to have cloned an empty repository.
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ exit
-Script done, file is lab1.script
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ act[K[K[Kcat la1.s[K[K[Kb1.sscri[1Pcri[C[C[Cpt
-Script started on 2015年03月10日 (週二) 17時49分08秒
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ whoami; pwd
-F74034075
-/home/F74034075
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ git config -l
-user.name=Ya-Huan
-user.email=f74034075@mail.ncku.edu.tw
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$  it [K[K[K[Kgit clone http://github.com/<>[C[K[KYah[K-Han[Ku[K[Kuan/lab1.git
-Cloning into 'lab1'...
-warning: You appear to have cloned an empty repository.
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ exit
-
-Script done on 2015年03月10日 (週二) 17時52分26秒
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ mv lab1.script lab1
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ git add [K[K[K[Kremote add originhttps://github.com/Ya-Huan/lab1.git[C https://github.com/Ya-Huan/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-fatal: Not a git repository (or any of the parent directories): .git
+]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ git clone http://github.com/Ya-Huan/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
 ]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ ls
-[0m[01;34mlab1[0m
-]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ lsgit remote add origin https://github.com/Ya-Huan/lab1.git[1P https://github.com/Ya-Huan/lab1.git[1P https://github.com/Ya-Huan/lab1.git[1P https://github.com/Ya-Huan/lab1.git[1P https://github.com/Ya-Huan/lab1.git[1P https://github.com/Ya-Huan/lab1.git[1P https://github.com/Ya-Huan/lab1.gitl https://github.com/Ya-Huan/lab1.git[33Pmv lab1.script lab1[4Pcat lab1.script[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd lab1
-]0;F74034075@2015cpp: ~/lab1F74034075@2015cpp:~/lab1$ ls
-lab1.script
-]0;F74034075@2015cpp: ~/lab1F74034075@2015cpp:~/lab1$ lscd lab1ls[Kgit remot
+[0m[01;34mlab1[0m  lab1.script
+]0;F74034075@2015cpp: ~F74034075@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 19時50分24秒
